@@ -14,7 +14,7 @@ console.log(aPerson.sayHi());
 console.log(aPerson.name);
 
 // from 'the outside' there is now 
-// diference in how you get the value
+// no diference in how you get the value
 // of a computed property or a 'normal' property
 console.log(aPerson.age);
 
